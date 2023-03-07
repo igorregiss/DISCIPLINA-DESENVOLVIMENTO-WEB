@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(136, 91, 207);
+    }
+    .home{
+    text-align: center;
+}
+    a{
+    color: black;
+    text-transform: uppercase;
+    }
