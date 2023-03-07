@@ -1,0 +1,16 @@
+body{
+background-color: black;
+}
+
+table, th, td {
+    border: 1px solid white;
+    align-items: center;
+    background-color: rgb(29, 29, 29);
+    color: white;
+}
+
+h1{
+color: white;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+}

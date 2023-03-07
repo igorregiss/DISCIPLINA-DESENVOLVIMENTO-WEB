@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+    
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.tiopatinhas{
+padding-left: 40%;
+padding-right: 30%;
+width: 20%;
+height: 20%;
+}
+
+.texto01{
+color: white;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+}
+
+.video{
+    padding-left: 30%;
+    padding-right: 30%;
+}
