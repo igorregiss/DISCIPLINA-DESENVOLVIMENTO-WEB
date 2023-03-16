@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to right, #8a2be2, #068080);
+text-align: center;
+}
+
+p{
+color: white;
+}
+
+.nome1, .senha1, .dtnascimento, .vocee{
+width: 20%;
+}
+
+.dddbrasil{
+width: 2%;
+background-color: white;
+}
+
+.telefone{
+    width: 16%;
+}

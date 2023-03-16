@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(to right, #8a2be2, #068080);
+}
+
+.bloco-01 {
+    background: #FFFFFF;
+    max-width: 30%;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    border-radius: 10px 40px;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.titulo{
+color: rgb(66, 66, 66);
+}
+
+input {
+    background: #dddddd;
+    width: 100%;
+    border: 0;
+    margin-bottom: 15px;
+    padding: 15px;
+    font-size: 14px;
+}
+.inputLogin {
+    text-transform: uppercase;
+    background: #74d46b;
+    width: 50%;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    text-align: center;
+}
+
+.inputLogin:hover{
+background: #56a84f;
+}
+.bloco-02-filha-de-01{
+    background-color: rgba(255, 0, 0, 0.26);
+    height: 20px;
+    width: 100%;
+    color: red;
+}

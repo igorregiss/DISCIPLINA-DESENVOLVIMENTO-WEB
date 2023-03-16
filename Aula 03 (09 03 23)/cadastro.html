@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/cadastro.css">    
+    <title>Cadastro - Aula 03</title>
+</head>
+<body>
+    <div class="cadastroAula03">
+        <form>
+    <p>Nome:</p>
+    <input class="nome1" type="text" id="nome" name="nome" placeholder="Insira seu nome" required maxlength="5" minlength="2">
+    <br>
+    <p>Senha:</p>
+    <input class="senha1" type="password" id="senha" name="senha" placeholder="Insira sua senha" required maxlength="15" minlength="5">
+    <br>
+    <p>Data de Nascimento:</p>
+    <input class="dtnascimento" type="date" id="dtNascimento" name="dtNascimento" required>
+    <br>
+    <p>Telefone:</p>
+    <input class="dddbrasil" type="text" id="dddBrasil" name="dddBrasil" placeholder="+55" disabled/>
+    <input class="telefone" type="text" id="telefone" name="telefone" placeholder="(00) 9 0000-0000"/>
+    <br>
+    <p>Cor preferida:</p>
+    <input class="cor" type="color" id="corPreferida" name="corPreferida" />
+    <br>
+    <p>Você é:</p>
+    <select name="vocee">
+    <option value="desempregado">Desempregado</option>
+    <option value="estudante">Estudante</option>
+    <option value="funcionario">Funcionario</option>
+  </select>
+  <br>
+  <p>A que horas você costuma tomar café:</p>
+  <input type="time" id="horaCafe" name="horaCafe">
+  <br>
+  <br>
+  <input type="submit" value="Cadastrar-se">
+  <br><br>
+  <input type="checkbox" required> Li e concordo os termos de uso.
+</form>
+</div>
+</body>
+</html>
