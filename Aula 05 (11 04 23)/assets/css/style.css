@@ -1,0 +1,81 @@
+.bloco1{
+    background-color: black;
+}
+.bloco2{
+    background-color: red;
+}
+.bloco3{
+    background-color: blue;
+}
+.bloco4{
+    background-color: green;
+}
+.bloco5{
+    background-color: yellow;
+}
+.bloco6{
+    background-color: purple;
+}
+.bloco7{
+    background-color: pink;
+}
+.bloco8{
+    background-color: gray;
+}
+.bloco9{
+    background-color: brown;
+}
+.bloco10{
+    background-color: goldenrod;
+}
+.bloco11{
+    background-color: black;
+}
+.bloco12{
+    background-color: orange;
+}
+.bloco001{
+    background-color: red;
+    height: 100vh;
+}
+.bloco002{
+    background-color: white;
+    height: 100vh;
+}
+
+.block-01{
+    background-color: white;
+    height: 100px;
+}
+
+.block-02{
+    background-color: rgb(236, 87, 87);
+    height: 40vh;
+}
+
+.block-03{
+    background-color: rgb(86, 86, 184);
+    height: 40vh;
+}
+
+.block-04{
+    background-color: rgb(86, 86, 184);
+    height: 30vh;
+    border-radius: 10px;
+}
+
+
+.block-05{
+    background-color: rgb(236, 87, 87);
+    height: 30vh;
+}
+
+.block-06{
+    background-color: rgb(86, 86, 184);
+    height: 10vh;
+}
+
+.separador{
+    background-color: white;
+    height: 3vh;
+}
