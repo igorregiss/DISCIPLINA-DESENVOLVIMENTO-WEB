@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(36, 71, 31);
+}
+label{
+    color: aliceblue;
+}
+
+.margin-input{
+    margin-top: 7px;
+}
+.margin-button{
+    margin-top: 15px;
+}
+.margin-top{
+    margin-top: 180px;
+}
+.largura{
+    min-width: 100%;
+}
