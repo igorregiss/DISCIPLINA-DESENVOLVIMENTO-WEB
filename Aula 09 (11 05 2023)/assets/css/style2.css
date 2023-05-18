@@ -1,0 +1,20 @@
+.bloco1{
+    background-color: #D9D9D9;
+    height: 100px;
+}
+
+.bloco2{
+    background-color: #DB6E6E;
+    height: 400px;
+}
+.bloco3{
+    background-color: #6E86DB;
+    height: 400px;
+}
+
+.bloco-inside{
+    background-color:#6E86DB ;
+    height: 250px;
+    margin: 10px;
+    border-radius: 10px;
+}
